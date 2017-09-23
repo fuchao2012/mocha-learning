@@ -1,0 +1,23 @@
+{
+    "name": "mocha",
+    "version": "1.0.0",
+    "description": "> An awesome project.",
+    "main": "index.js",
+    "directories": {
+        "doc": "docs"
+    },
+    "scripts": {
+        "start": "docsify serve ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fuchao2012/mocha-learning.git"
+    },
+    "keywords": ["mocha", "learnning", "docsify"],
+    "author": "fuchao.zheng",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fuchao2012/mocha-learning/issues"
+    },
+    "homepage": "https://github.com/fuchao2012/mocha-learning#readme"
+}
